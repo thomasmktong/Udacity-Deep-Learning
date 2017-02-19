@@ -1,10 +1,12 @@
 # Udacity-Deep-Learning
-I am studying and mentoring in Udacity. This is my code repository for Udacity's Machine Learning / Deep Learning Courses.
+I am studying and mentoring in Udacity. This is my code repository for Udacity's Machine Learning and Deep Learning Courses.
 
+<br />
 ## Deep Learning Foundations Nanodegree
 
-- [Project 1: Your First Neural Network](https://github.com/thomasmktong/Udacity-Deep-Learning-Nanodegree/blob/master/DLND-your-first-network/dlnd-your-first-neural-network.ipynb)
+- [Project 1: Your First Neural Network](https://github.com/thomasmktong/Udacity-Deep-Learning/blob/master/DLND-your-first-network/dlnd-your-first-neural-network.ipynb)
 
+<br />
 ## Machine Learning Nanodegree
 
 - [Project 0: Titanic Survival Exploration] (https://github.com/thomasmktong/Udacity-Deep-Learning/blob/master/use_cases/titanic_survival_exploration/titanic_survival_exploration.ipynb)
